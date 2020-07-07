@@ -8,10 +8,10 @@ My competitive programming problem's solutions
     <header>
    <h1>Allegue \_O></h1>
 </header>
-<div class="block one"></div>
-<div class="block two"></div>
-<div class="block three"></div>
-<div class="block four"></div>
+<div class="block one">.</div>
+<div class="block two">.</div>
+<div class="block three">.</div>
+<div class="block four">L</div>
 <footer></footer>
     </body>
 </html>
